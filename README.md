@@ -4,3 +4,4 @@ End-to-end Logistic Regression projects solving real-world classification proble
 - 🛒 Ecommerce Customer Prediction
 - 🍔 Swiggy Order Prediction
 - 🚢 Titanic Survival Prediction
+- 🚨 Fake Job Posting Detection
